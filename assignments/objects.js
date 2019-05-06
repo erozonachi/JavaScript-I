@@ -58,14 +58,19 @@ const antonietta = {
 // Once your objects are created, log out the following requests from HR into the console:
 
 // Mitzi's name
+console.log(`Mitzi's Name: ${mitzi.name}`);
 
 // Kennan's ID
+console.log(`Kennan's ID: ${kennan.id}`);
 
 // Keven's email
+console.log(`Keven's Email: ${keven.email}`);
 
 // Gannie's name
+console.log(`Gannie's Name: ${gannie.name}`);
 
 // Antonietta's Gender
+console.log(`Antonietta's Gender: ${antonietta.gender}`);
 
 // ==== Challenge 3: Object Methods ==== 
 // Give Kennan the ability to say "Hello, my name is Kennan!" Use the console.log provided as a hint.
